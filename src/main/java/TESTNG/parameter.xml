@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Paramter Pracrice">
+    <test name="Paramater Test">
+        
+        <parameter name="FirstName" value="jafar"></parameter>
+        <parameter name="City" value="alger"></parameter>
+        <parameter name="State" value="tizi ouzou"></parameter>
+        <classes>
+            <class name="TESTNG.ParameterAnnotation"></class>
+        </classes>
+    </test>
+    
+    
+    
+</suite>
