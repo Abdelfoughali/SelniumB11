@@ -168,7 +168,7 @@ the element i am looking for is not under iframe
       returns the list of the weblement
       once it fails it throws epmty list array
 
-      19) what are the river methods and weblement methods
+      19) what are the driver methods and weblement methods
 
      driver methods
      get

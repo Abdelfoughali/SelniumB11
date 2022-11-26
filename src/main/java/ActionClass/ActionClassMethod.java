@@ -267,6 +267,10 @@ while (!range.getText().trim().equals(myrange)){
 
 
     }
+    @Test
+    public static void main (){
+        System.out.println("this is for git practice");
+    }
 }
 
 
